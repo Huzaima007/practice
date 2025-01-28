@@ -1,0 +1,12 @@
+git init
+git status
+git add .
+git commit -m "changing file"
+git log (working history)
+git confiq --global --list
+git confiq --global user.name
+first user name second user email
+git remote -v
+git branch -M main
+git log --oneline
+
